@@ -12,9 +12,9 @@
 - translate 3.6.1.
 
 ### Requirements
-- Клонировать репозиторий и перейти в него в командной строке
+- Clone the repository and go to it on the command line:
 ```
-git clone https://github.com/BerdyshevEugene/api_final_yatube.git
+git clone https://github.com/BerdyshevEugene/translator_bot.git
 ```
 ```
 cd api_final_yatube
